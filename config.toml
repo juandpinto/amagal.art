@@ -4,6 +4,8 @@ languageCode = "en-us"
 title = "Amagal Art"
 theme = "hugo-freelancer-theme"
 
+# My addition to remove warning message at deploy
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 
