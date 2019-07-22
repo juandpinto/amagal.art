@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://amagal.art/"
+baseURL = "https://amagal.art/"
 languageCode = "en-us"
 title = "Amagal Art"
 theme = "hugo-freelancer-theme"
