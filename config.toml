@@ -28,7 +28,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # - send a dummy email youself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    email = "anamarcela@amagal.art"
+    email = "owl165@gmail.com"
 
     # Custom assets
 	custom_css = []
