@@ -42,7 +42,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "Ana Marcela Galvis"
-        subtitle = "Artist - Freelancer - Creator"
+        subtitle = "Artist · Freelancer · Creator"
 
 
     [params.portfolio]
